@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;cond&apos; in &apos;ua.univer.Square.setCondition(...)&apos; to &apos;condition&apos;&#x0A;- Original project: &apos;labyrinth&apos;&#x0A;- Original element: &apos;ua.univer.Square.setCondition(ESquareCondition).cond&apos;&#x0A;- Renamed element: &apos;cond&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;cond&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;ua.univer{Square.java[Square~setCondition~QESquareCondition;@cond!472!492!489!492!QESquareCondition;!0!true" name="condition" references="true" stamp="1549992231051" version="1.0"/>
+</session>

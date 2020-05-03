@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AuthFilterWeb/AuthFilterWeb.iml" filepath="$PROJECT_DIR$/AuthFilterWeb/AuthFilterWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClientServerApp/ClientServerApp.iml" filepath="$PROJECT_DIR$/ClientServerApp/ClientServerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstWeb/FirstWeb.iml" filepath="$PROJECT_DIR$/FirstWeb/FirstWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworld/HelloWorld.iml" filepath="$PROJECT_DIR$/helloworld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC-connector/JDBC-connector.iml" filepath="$PROJECT_DIR$/JDBC-connector/JDBC-connector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java2.iml" filepath="$PROJECT_DIR$/Java2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MainWebP/MainWebP.iml" filepath="$PROJECT_DIR$/MainWebP/MainWebP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MainWebProject/MainWebProject.iml" filepath="$PROJECT_DIR$/MainWebProject/MainWebProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMIApplicationLab3/RMIApplicationLab3.iml" filepath="$PROJECT_DIR$/RMIApplicationLab3/RMIApplicationLab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servers/Servers.iml" filepath="$PROJECT_DIR$/Servers/Servers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebApp1/WebApp1.iml" filepath="$PROJECT_DIR$/WebApp1/WebApp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Webtest/Webtest.iml" filepath="$PROJECT_DIR$/Webtest/Webtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank/bank.iml" filepath="$PROJECT_DIR$/bank/bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bankDAO/bankDAO.iml" filepath="$PROJECT_DIR$/bankDAO/bankDAO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank_connector/bank_connector.iml" filepath="$PROJECT_DIR$/bank_connector/bank_connector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank_deposits(xml, xsd)/bank_deposits(xml, xsd).iml" filepath="$PROJECT_DIR$/bank_deposits(xml, xsd)/bank_deposits(xml, xsd).iml" />
+      <module fileurl="file://$PROJECT_DIR$/beverages(Decorator)/beverages(Decorator).iml" filepath="$PROJECT_DIR$/beverages(Decorator)/beverages(Decorator).iml" />
+      <module fileurl="file://$PROJECT_DIR$/brackets/brackets.iml" filepath="$PROJECT_DIR$/brackets/brackets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculatorRMI/calculatorRMI.iml" filepath="$PROJECT_DIR$/calculatorRMI/calculatorRMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chocolatefactory(Singleton)/chocolatefactory(Singleton).iml" filepath="$PROJECT_DIR$/chocolatefactory(Singleton)/chocolatefactory(Singleton).iml" />
+      <module fileurl="file://$PROJECT_DIR$/countries/countries.iml" filepath="$PROJECT_DIR$/countries/countries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ducks(Strategy)/ducks(Strategy).iml" filepath="$PROJECT_DIR$/ducks(Strategy)/ducks(Strategy).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ducksandturkeys(Adapter)/ducksandturkeys(Adapter).iml" filepath="$PROJECT_DIR$/ducksandturkeys(Adapter)/ducksandturkeys(Adapter).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ee/ee.iml" filepath="$PROJECT_DIR$/ee/ee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/football/football.iml" filepath="$PROJECT_DIR$/football/football.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infix/infix.iml" filepath="$PROJECT_DIR$/infix/infix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/input-output(Decorator)/input-output(Decorator).iml" filepath="$PROJECT_DIR$/input-output(Decorator)/input-output(Decorator).iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbcdemo/jdbcdemo.iml" filepath="$PROJECT_DIR$/jdbcdemo/jdbcdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labXML1/labXML1.iml" filepath="$PROJECT_DIR$/labXML1/labXML1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labyrinth/labyrinth.iml" filepath="$PROJECT_DIR$/labyrinth/labyrinth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pizza1(Factory)/pizza1(Factory).iml" filepath="$PROJECT_DIR$/pizza1(Factory)/pizza1(Factory).iml" />
+      <module fileurl="file://$PROJECT_DIR$/pizza2(Factory Method)/pizza2(Factory Method).iml" filepath="$PROJECT_DIR$/pizza2(Factory Method)/pizza2(Factory Method).iml" />
+      <module fileurl="file://$PROJECT_DIR$/pizza2.1(Abstract Factory)/pizza2.1(Abstract Factory).iml" filepath="$PROJECT_DIR$/pizza2.1(Abstract Factory)/pizza2.1(Abstract Factory).iml" />
+      <module fileurl="file://$PROJECT_DIR$/prj01/prj01.iml" filepath="$PROJECT_DIR$/prj01/prj01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prj02/prj02.iml" filepath="$PROJECT_DIR$/prj02/prj02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prj021/prj021.iml" filepath="$PROJECT_DIR$/prj021/prj021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prj03/prj03.iml" filepath="$PROJECT_DIR$/prj03/prj03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prj031/prj031.iml" filepath="$PROJECT_DIR$/prj031/prj031.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prj0311/prj0311.iml" filepath="$PROJECT_DIR$/prj0311/prj0311.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prj04/prj04.iml" filepath="$PROJECT_DIR$/prj04/prj04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prj05/prj05.iml" filepath="$PROJECT_DIR$/prj05/prj05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prj05JDBS/prj05JDBS.iml" filepath="$PROJECT_DIR$/prj05JDBS/prj05JDBS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prj06JDBC/prj06JDBC.iml" filepath="$PROJECT_DIR$/prj06JDBC/prj06JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prj07/prj07.iml" filepath="$PROJECT_DIR$/prj07/prj07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prj08/prj08.iml" filepath="$PROJECT_DIR$/prj08/prj08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prj09/prj09.iml" filepath="$PROJECT_DIR$/prj09/prj09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prj10/prj10.iml" filepath="$PROJECT_DIR$/prj10/prj10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prj11/prj11.iml" filepath="$PROJECT_DIR$/prj11/prj11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prj111/prj111.iml" filepath="$PROJECT_DIR$/prj111/prj111.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prj12/prj12.iml" filepath="$PROJECT_DIR$/prj12/prj12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prj13/prj13.iml" filepath="$PROJECT_DIR$/prj13/prj13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prj2.00/prj2.00.iml" filepath="$PROJECT_DIR$/prj2.00/prj2.00.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prj2.01/prj2.01.iml" filepath="$PROJECT_DIR$/prj2.01/prj2.01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/productsClientServer/productsClientServer.iml" filepath="$PROJECT_DIR$/productsClientServer/productsClientServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student/student.iml" filepath="$PROJECT_DIR$/student/student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testWeb/testWeb.iml" filepath="$PROJECT_DIR$/testWeb/testWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_string/test_string.iml" filepath="$PROJECT_DIR$/test_string/test_string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testtttttt/testtttttt.iml" filepath="$PROJECT_DIR$/testtttttt/testtttttt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread_test/thread_test.iml" filepath="$PROJECT_DIR$/thread_test/thread_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tickets/tickets.iml" filepath="$PROJECT_DIR$/tickets/tickets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training/training.iml" filepath="$PROJECT_DIR$/training/training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather(Observer)/weather(Observer).iml" filepath="$PROJECT_DIR$/weather(Observer)/weather(Observer).iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather2(Observer)/weather2(Observer).iml" filepath="$PROJECT_DIR$/weather2(Observer)/weather2(Observer).iml" />
+      <module fileurl="file://$PROJECT_DIR$/web1/web1.iml" filepath="$PROJECT_DIR$/web1/web1.iml" />
+    </modules>
+  </component>
+</project>

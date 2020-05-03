@@ -1,0 +1,69 @@
+1553637001206	Rename resource 'Base.jsp'
+1553637256989	Move 'admin_menu.jsp' to 'WebContent'
+1553637293234	Rename resource 'uaer_menu.jsp'
+1553770163707	Move 'index.jsp' to 'view'
+1553770167239	Move 'admin_menu.jsp' to 'view'
+1553770170943	Move 'registration.jsp' to 'view'
+1553770173523	Move 'user_menu.jsp' to 'view'
+1553771970996	Delete element
+1553772229678	Move 'index.jsp' to 'WEB-INF'
+1553883070237	Delete element
+1553885339163	Rename local variable 'clientIds'
+1553885606686	Rename local variable 'client'
+1553885705033	Rename local variable 'client'
+1553885763456	Rename local variable 'client'
+1553886529575	Move compilation units
+1553886584788	Move compilation unit
+1553886607076	Move compilation unit
+1553886621632	Move compilation unit
+1553886625188	Move compilation unit
+1553894168322	Rename resource 'index.jsp'
+1553894198865	Move 'login.jsp' to 'view'
+1553895295975	Move 'user_menu.jsp' to 'WEB-INF'
+1553895328798	Rename resource 'user_menu.jsp'
+1553895338233	Rename resource 'index\.jsp'
+1553895450725	Rename resource 'index.jsp'
+1553895453668	Move 'user_menu.jsp' to 'view'
+1553900503987	Move 'login.jsp' to 'WEB-INF'
+1553900568524	Rename resource 'login.jsp'
+1553902129580	Copy file
+1553902344979	Copy file
+1553902919724	Move 'admin_menu.jsp' to 'WebContent'
+1553902922355	Move 'user_menu.jsp' to 'WebContent'
+1553902925474	Move 'index.jsp' to 'WebContent'
+1553902927719	Move 'registration.jsp' to 'WebContent'
+1553903416514	Move 'admin_menu.jsp' to 'view'
+1553903418907	Move 'registration.jsp' to 'view'
+1553903421539	Move 'user_menu.jsp' to 'view'
+1553903472975	Rename resource 'index.jsp'
+1553903559879	Move 'login.jsp' to 'view'
+1553906740950	Delete element
+1553907749136	Move 'admin_menu.jsp' to 'WEB-INF'
+1553907751631	Move 'registration.jsp' to 'WEB-INF'
+1553907756508	Move 'user_menu.jsp' to 'WEB-INF'
+1553907762010	Move 'admin_menu.jsp' to 'WebContent'
+1553907764987	Move 'user_menu.jsp' to 'WebContent'
+1553907767252	Move 'registration.jsp' to 'WebContent'
+1553909539081	Move 'admin_menu.jsp' to 'view'
+1553909542005	Move 'registration.jsp' to 'view'
+1553909545371	Move 'user_menu.jsp' to 'view'
+1553916371956	Delete element
+1553916704511	Move compilation unit
+1553916724930	Rename type 'UserServlet'
+1553916940379	Rename type 'UserInformationServlet'
+1553916946986	Move compilation unit
+1553917626749	Rename resource 'user_menu.jsp'
+1553918389783	Rename package 'ua.univer.web.user'
+1553936348670	Copy package
+1553936372964	Move package
+1553936511097	Copy package
+1553936521068	Copy compilation units
+1553936528379	Copy compilation unit
+1553936538135	Copy compilation unit
+1553936552244	Copy compilation units
+1553936829895	Copy compilation units
+1553936853756	Copy compilation unit
+1553936860882	Copy compilation units
+1553944064575	Delete element
+1553944228666	Delete elements
+1553944275169	Delete elements

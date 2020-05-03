@@ -1,0 +1,21 @@
+1547282532763	Rename type 'WeatherStation'
+1547282555109	Move compilation unit
+1547282710070	Move compilation unit
+1547282757005	Move compilation unit
+1547282764016	Move compilation unit
+1547282835561	Rename type 'WeatherData'
+1547282843854	Move compilation unit
+1547282948411	Move compilation unit
+1547282978225	Rename type 'Observer'
+1547283032925	Move compilation unit
+1547283044360	Rename type 'Subject'
+1547283078178	Rename method 'registerObserver'
+1547283092058	Rename method 'removeObserver'
+1547283138498	Rename method 'notifyObservers'
+1547283160504	Rename method 'remove'
+1547283169715	Rename method 'register'
+1547283213659	Delete element
+1547283369822	Rename local variable 'o'
+1547283968118	Rename type 'WeatherDayaControl'
+1547284654025	Move compilation unit
+1547285494986	Move compilation units

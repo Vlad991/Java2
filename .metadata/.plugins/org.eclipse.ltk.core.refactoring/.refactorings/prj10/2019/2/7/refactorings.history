@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;ua.univerюзкщв&apos; to &apos;ua.univer.prodCon&apos;&#x0A;- Original project: &apos;prj10&apos;&#x0A;- Original element: &apos;prj10/src/ua.univerюзкщв&apos;&#x0A;- Renamed element: &apos;prj10/src/ua.univer.prodCon&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;ua.univerюзкщв&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;ua.univerюзкщв" name="ua.univer.prodCon" qualified="false" references="true" stamp="1550315353104" textual="false" version="1.0"/>
+</session>

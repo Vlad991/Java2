@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+/Users/kuzmavladislavvladimirovic/Documents/2019/Java2/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+542573708.index
+2178798992.index
+3412118991.index
+3916483316.index

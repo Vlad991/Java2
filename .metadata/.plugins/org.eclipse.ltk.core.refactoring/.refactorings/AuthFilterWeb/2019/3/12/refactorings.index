@@ -1,0 +1,4 @@
+1553338735735	Move 'view' to 'WEB-INF'
+1553339972580	Move 'index.jsp' to 'WebContent'
+1553341336896	Rename resource 'Admin.jsp'
+1553341348129	Rename resource 'User.jsp'

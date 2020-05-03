@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;football.Football.showTeam()&apos; to &apos;show&apos;&#x0A;- Original project: &apos;football&apos;&#x0A;- Original element: &apos;football.Football.showTeam()&apos;&#x0A;- Renamed element: &apos;football.Football.show()&apos;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;showTeam&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;football{Football.java[Football~showTeam" name="show" references="true" stamp="1548349182334" version="1.0"/>
+</session>

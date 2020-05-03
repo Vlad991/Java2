@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bank>
+	<deposit faculty="mmf">
+		<name>Mitar Alex</name>
+		<address country="Belarus" city="Minsk" street="Kalinovsky 45">
+			<telephone number="3462356" />
+		</address>
+	</deposit>
+	<student faculty="mmf">
+		<name>Pashkin Alex</name>
+		<address country="Belarus" city="Brest" street="Knorina 56">
+			<telephone number="4582356" />
+		</address>
+	</student>
+</bank>

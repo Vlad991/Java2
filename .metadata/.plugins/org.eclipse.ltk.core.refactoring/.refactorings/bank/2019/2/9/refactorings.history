@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;ua.univer.bank.InfoClient.showProductData()&apos; to &apos;showTransactionData&apos;&#x0A;- Original project: &apos;bank&apos;&#x0A;- Original element: &apos;ua.univer.bank.InfoClient.showProductData()&apos;&#x0A;- Renamed element: &apos;ua.univer.bank.InfoClient.showTransactionData()&apos;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;showProductData&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;ua.univer.bank{InfoClient.java[InfoClient~showProductData" name="showTransactionData" references="true" stamp="1551194651586" version="1.0"/>
+</session>

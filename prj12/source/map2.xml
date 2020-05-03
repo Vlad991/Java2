@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="WINDOWS-1251" standalone="no"?>
+<map>
+	<country id="1" name="Россия">
+		<city count="11000000" id="1" iscap="1" name="Питер" />
+		<city count="850000" id="2" iscap="0" name="Владивосток" />
+		<city count="500000" id="3" iscap="0" name="Воронеж" />
+	</country>
+	<country id="2" name="Украина">
+		<city count="3000000" id="4" iscap="1" name="Киев" />
+		<city count="400000" id="5" iscap="0" name="Севастополь" />
+	</country>
+	<country id="3" name="Белоруссия">
+		<city count="1700000" id="6" iscap="1" name="Минск" />
+		<city count="350000" id="7" iscap="0" name="Витебск" />
+	</country>
+</map>

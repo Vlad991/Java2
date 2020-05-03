@@ -1,0 +1,20 @@
+package ua.univer.duck;
+
+public class ReadheadDuck extends Duck implements Quackable, Flyable{
+
+	@Override
+	public void display() {
+		System.out.println("ReadheadDuck");
+	}
+
+	@Override
+	public void fly() {
+		System.out.println("fly");
+	}
+
+	@Override
+	public void quack() {
+		System.out.println("Quack!");
+	}
+
+}

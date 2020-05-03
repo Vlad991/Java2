@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;ua.univer.ListNodeTicketRequest.addLast(...)&apos; to &apos;addTicketRequest&apos;&#x0A;- Original project: &apos;tickets&apos;&#x0A;- Original element: &apos;ua.univer.ListNodeTicketRequest.addLast(...)&apos;&#x0A;- Renamed element: &apos;ua.univer.ListNodeTicketRequest.addTicketRequest(...)&apos;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;addLast&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;ua.univer{ListNodeTicketRequest.java[ListNodeTicketRequest~addLast~QTicketRequest;" name="addTicketRequest" references="true" stamp="1549394870232" version="1.0"/>
+</session>

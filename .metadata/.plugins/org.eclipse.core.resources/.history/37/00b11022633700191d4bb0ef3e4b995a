@@ -1,0 +1,5 @@
+package ServerJabber;
+
+public class JabberClient {
+
+}

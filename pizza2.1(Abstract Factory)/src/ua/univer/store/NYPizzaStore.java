@@ -1,0 +1,43 @@
+package ua.univer.store;
+
+import ua.univer.pizza.Pizza;
+import ua.univer.pizza.VeggiePizza;
+import ua.univer.ingredients.factories.NYPizzaIngredientFactory;
+import ua.univer.ingredients.factories.PizzaIngredientFactory;
+import ua.univer.pizza.CheesePizza;
+import ua.univer.pizza.ClamPizza;
+import ua.univer.pizza.PepperoniPizza;
+
+public class NYPizzaStore extends PizzaStore {
+
+	@Override
+	public Pizza createPizza(String item) {
+		Pizza pizza = null;
+		PizzaIngredientFactory ingredientFactory = new NYPizzaIngredientFactory();
+		
+		if (item.equals("cheese")) {
+			
+			pizza = new CheesePizza(ingredientFactory);
+			pizza.setName("New York Style Cheese Pizza");
+			
+		} else if (item.equals("pepperoni")) {
+			
+			pizza = new PepperoniPizza(ingredientFactory);
+			pizza.setName("New York Style Pepperoni Pizza");
+			
+		} else if (item.equals("clam")) {
+			
+			pizza = new ClamPizza(ingredientFactory);
+			pizza.setName("New York Style Clam Pizza");
+			
+		} else if (item.equals("veggie")) {
+			
+			pizza = new VeggiePizza(ingredientFactory);
+			pizza.setName("New York Style Veggie Pizza");
+			
+		}
+		
+		return pizza;
+	}
+
+}

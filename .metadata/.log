@@ -1,0 +1,16 @@
+!SESSION 2019-05-04 15:39:01.924 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=11.0.3
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ru_UA
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/kuzmavladislavvladimirovic/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/kuzmavladislavvladimirovic/.eclipse_keyring
+
+This is a continuation of log file /Users/kuzmavladislavvladimirovic/Documents/2019/Java2/.metadata/.bak_0.log
+Created Time: 2019-05-04 15:39:32.971
+
+!ENTRY org.eclipse.core.net 1 0 2019-05-04 15:39:32.971
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-04 15:39:38.422
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
